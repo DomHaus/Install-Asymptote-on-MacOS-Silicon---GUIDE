@@ -82,4 +82,4 @@ To work with Asymptote and to check if the installation process was successfull,
 
 Replace `example.asy` with the path to an actual Asymptote file (if its in another folder than your Terminal or has another name).
 <br>If you get a PDF output, congratulations, you've successfully installed Asymptote on your Mac!<br><br>
-![example.asy result](circle.png "circle printed with asymptote")
+![example.asy result](circle.jpg "circle printed with asymptote")
