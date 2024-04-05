@@ -1,11 +1,20 @@
 # How to Install Asymptote on Mac
 
-_Automated install script will come with future commits, but its not done yet_
-
 Note: This guide is designed specifically for Macs with Apple Silicon chips (M1, M2, M3, etc.). If you are using a Mac with an Intel CPU, please be aware that this guide may not be fully compatible with your system.
+<hr>
+
+# Option 1: Automated installation via script
+
+I made a small shell script that automates all the steps from <b>Option 2</b>. 
+<br>You can download the script directly from this repository: [Installation Script](Install_Asymptote_beta)
+<br><br>:warning:Given that I've only tested this script on one machine, I strongly suggest choosing <b>Option 2</b>! This will guide you through the process step by step, making it much easier to identify and address any potential errors. :warning:
+<hr>
+
+# Option 2: Step-by-step guide
 
 Follow these steps to install Asymptote on your Mac. This guide assumes you're starting from scratch, without Homebrew or MacTeX installed.
-<br>If you already installed Homebrew, u can proceed with step 2 (or step 3, if Homebrew is already working on your machine).
+
+If you already installed Homebrew, you can proceed with step 2 (or step 3, if Homebrew is already working on your machine).
 
 ## Step 1: Install Homebrew
 
@@ -81,5 +90,6 @@ To work with Asymptote and to check if the installation process was successfull,
     ```
 
 Replace `example.asy` with the path to an actual Asymptote file (if its in another folder than your Terminal or has another name).
-<br>If you get a PDF output, congratulations, you've successfully installed Asymptote on your Mac!<br><br>
+
+If you get a PDF output, congratulations, you've successfully installed Asymptote on your Mac! ✅<br><br>
 ![example.asy result](circle.jpg "circle printed with asymptote")
