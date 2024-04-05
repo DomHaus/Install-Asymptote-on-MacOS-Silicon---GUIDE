@@ -6,7 +6,7 @@ Note: This guide is designed specifically for Macs with Apple Silicon chips (M1,
 # Option 1: Automated installation via script
 
 I made a small shell script that automates all the steps from <b>Option 2</b>. 
-<br>You can download the script directly from this repository: [Installation Script](Install_Asymptote_beta)
+<br>You can download the script directly from this repository: [Installation Script BETA](Install_Asymptote_beta)
 <br><br>:warning:Given that I've only tested this script on one machine, I strongly suggest choosing <b>Option 2</b>! This will guide you through the process step by step, making it much easier to identify and address any potential errors. :warning:
 <hr>
 
