@@ -88,6 +88,10 @@ To work with Asymptote and to check if the installation process was successfull,
     ```sh
     asy -f pdf example.asy
     ```
+    Note: If you prefer a `.eps` file, you can simple use the following command:
+   ```sh
+    asy example.asy
+    ```
 
 Replace `example.asy` with the path to an actual Asymptote file (if its in another folder than your Terminal or has another name).
 
